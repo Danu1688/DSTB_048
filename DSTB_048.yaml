@@ -1,95 +1,95 @@
 proxies:
-- name: AdiOrchadzDo2_Live_IP1
+- name: SvrAtha51_Live_IP1
   type: trojan
   server: 104.17.224.203
   port: 443
-  password: 38c21634-a63f-4a0b-a779-2260db33b2d5
+  password: 2107e838-6b38-4ab7-b08d-400f16b1d2b4
   udp: true
-  sni: dstb.cloud
+  sni: id3.myserver-prem.xyz
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /trojan-ws
+    path: /trojan
     headers:
-      Host: dstb.cloud
-- name: AdiOrchadzDo2_Live_IP2
+      Host: id3.myserver-prem.xyz
+- name: SvrAtha51_Live_IP2
   type: trojan
   server: 104.16.143.190
   port: 443
-  password: 38c21634-a63f-4a0b-a779-2260db33b2d5
+  password: 2107e838-6b38-4ab7-b08d-400f16b1d2b4
   udp: true
-  sni: dstb.cloud
+  sni: id3.myserver-prem.xyz
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /trojan-ws
+    path: /trojan
     headers:
-      Host: dstb.cloud
-- name: AdiOrchadzDo2_Live_IP3
+      Host: id3.myserver-prem.xyz
+- name: SvrAtha51_Live_IP3
   type: trojan
   server: 172.67.75.37
   port: 443
-  password: 38c21634-a63f-4a0b-a779-2260db33b2d5
+  password: 2107e838-6b38-4ab7-b08d-400f16b1d2b4
   udp: true
-  sni: dstb.cloud
+  sni: id3.myserver-prem.xyz
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /trojan-ws
+    path: /trojan
     headers:
-      Host: dstb.cloud
-- name: AdiOrchadzDo2_Live_IP4
+      Host: id3.myserver-prem.xyz
+- name: SvrAtha51_Live_IP4
   type: trojan
   server: 104.26.15.208
   port: 443
-  password: 38c21634-a63f-4a0b-a779-2260db33b2d5
+  password: 2107e838-6b38-4ab7-b08d-400f16b1d2b4
   udp: true
-  sni: dstb.cloud
+  sni: id3.myserver-prem.xyz
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /trojan-ws
+    path: /trojan
     headers:
-      Host: dstb.cloud
-- name: AdiOrchadzDo2_Live_IP5
+      Host: id3.myserver-prem.xyz
+- name: SvrAtha51_Live_IP5
   type: trojan
   server: 104.26.14.208
   port: 443
-  password: 38c21634-a63f-4a0b-a779-2260db33b2d5
+  password: 2107e838-6b38-4ab7-b08d-400f16b1d2b4
   udp: true
-  sni: dstb.cloud
+  sni: id3.myserver-prem.xyz
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /trojan-ws
+    path: /trojan
     headers:
-      Host: dstb.cloud
-- name: AdiOrchadzDo2_Live_H1
+      Host: id3.myserver-prem.xyz
+- name: SvrAtha51_Live_H1
   type: trojan
   server: circles.asia
   port: 443
-  password: 38c21634-a63f-4a0b-a779-2260db33b2d5
+  password: 2107e838-6b38-4ab7-b08d-400f16b1d2b4
   udp: true
-  sni: dstb.cloud
+  sni: id3.myserver-prem.xyz
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /trojan-ws
+    path: /trojan
     headers:
-      Host: dstb.cloud
-- name: AdiOrchadzDo2_Live_H2
+      Host: id3.myserver-prem.xyz
+- name: SvrAtha51_Live_H2
   type: trojan
   server: beacon.liveon.id
   port: 443
-  password: 38c21634-a63f-4a0b-a779-2260db33b2d5
+  password: 2107e838-6b38-4ab7-b08d-400f16b1d2b4
   udp: true
-  sni: dstb.cloud
+  sni: id3.myserver-prem.xyz
   skip-cert-verify: true
   network: ws
   ws-opts:
-    path: /trojan-ws
+    path: /trojan
     headers:
-      Host: dstb.cloud
+      Host: id3.myserver-prem.xyz
 - name: ServerNusa_Live_IP1
   type: trojan
   server: 104.17.224.203
